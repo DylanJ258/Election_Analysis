@@ -38,33 +38,33 @@ The analysis of the election show that:
    
 ## Election Audit Results:
 -How many votes were cast in this congressional election?
- -369,711 votes were cast in this congressional election.
- - <img width="234" alt="Total Votes" src="https://user-images.githubusercontent.com/104036750/168720758-8ff13fe4-c4df-401b-941e-11555033c4b3.png">
+  -369,711 votes were cast in this congressional election.
+  -<img width="234" alt="Total Votes" src="https://user-images.githubusercontent.com/104036750/168720758-8ff13fe4-c4df-401b-941e-11555033c4b3.png">
  
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
- -Jefferson County had 38,855 votes submitted, which is 10.5% of the total votes.
-  -Only a small portion of the total votes came from Arapahoe County, which causes it to not have is much pull in the election.
- -Denver County had 306,055 votes submitted, which is 82.8% of the total votes.
-  - The vast majority of the total votes submitted came from Denver County, therefore it had the largest affect on the results of this election
- -Arapahoe County had 24,801 votes submitted, which is 6.7% of the total votes.
-  - Only a small portion of the total votes came from Arapahoe County, which causes it to not have is much pull in the election.
- -<img width="212" alt="County Votes" src="https://user-images.githubusercontent.com/104036750/168720843-b2f93331-421e-4392-9c7e-46766428a7cd.png">
+  -Jefferson County had 38,855 votes submitted, which is 10.5% of the total votes.
+    -Only a small portion of the total votes came from Arapahoe County, which causes it to not have is much pull in the election.
+  -Denver County had 306,055 votes submitted, which is 82.8% of the total votes.
+    -The vast majority of the total votes submitted came from Denver County, therefore it had the largest affect on the results of this election
+  -Arapahoe County had 24,801 votes submitted, which is 6.7% of the total votes.
+    -Only a small portion of the total votes came from Arapahoe County, which causes it to not have is much pull in the election.
+  -<img width="212" alt="County Votes" src="https://user-images.githubusercontent.com/104036750/168720843-b2f93331-421e-4392-9c7e-46766428a7cd.png">
 
 -Which county had the largest number of votes?
- - Denver had the largest number of votes, which can be seen on the Largest County Turnout line of the election_analysis.txt file
- - <img width="234" alt="Largest County Turnout" src="https://user-images.githubusercontent.com/104036750/168720983-912360fd-bacf-417c-82ce-465fddec6c8b.png">
-
+  -Denver had the largest number of votes, which can be seen on the Largest County Turnout line of the election_analysis.txt file
+  -<img width="234" alt="Largest County Turnout" src="https://user-images.githubusercontent.com/104036750/168720983-912360fd-bacf-417c-82ce-465fddec6c8b.png">
+  
 -Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
- -Charles Casper Stockham received 85,213 votes, which is 23.0% of the total votes submitted
- -Diana DeGette received 272,892 votes, which is 73.8% of the total votes submitted
- -Raymon Anthony Doane received 11,606 votes, which is 3.1% of the total votes submitted
- - <img width="288" alt="Canidate Results" src="https://user-images.githubusercontent.com/104036750/168721015-8126adfe-96c5-4e3f-b47a-0a1868b4008e.png">
+  -Charles Casper Stockham received 85,213 votes, which is 23.0% of the total votes submitted
+  -Diana DeGette received 272,892 votes, which is 73.8% of the total votes submitted
+  -Raymon Anthony Doane received 11,606 votes, which is 3.1% of the total votes submitted
+  -<img width="288" alt="Canidate Results" src="https://user-images.githubusercontent.com/104036750/168721015-8126adfe-96c5-4e3f-b47a-0a1868b4008e.png">
 
 -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
- -Diana DeGette won the election.
+  -Diana DeGette won the election.
   -She received 272,892 votes
   -She received 73.8% of the total votes submitted
- -<img width="206" alt="Election Winner" src="https://user-images.githubusercontent.com/104036750/168721051-c3157a32-577f-4eef-bbca-633fe2049591.png">
+  -<img width="206" alt="Election Winner" src="https://user-images.githubusercontent.com/104036750/168721051-c3157a32-577f-4eef-bbca-633fe2049591.png">
  
 ## Election Audit Summary
 -The results of this audit can be extremely valuable for future canidates. Canidates can use this data to target specific areas that contain the largest portion of voters.
